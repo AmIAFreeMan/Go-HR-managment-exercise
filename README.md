@@ -14,6 +14,7 @@ following **Clean Architecture** principles.
 
 ## Project Structure
 
+```text
 hr-system/
 ├── cmd/
 │   └── server/
